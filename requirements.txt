@@ -1,5 +1,7 @@
 fastapi
 uvicorn
 pydantic
+--find-links https://pytorch.org
 torch
+torchvision
 transformers
