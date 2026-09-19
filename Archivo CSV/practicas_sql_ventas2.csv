@@ -1,0 +1,151 @@
+id_venta,fecha,cliente,producto,categoria,cantidad,precio_unitario,total,ciudad,metodo_pago
+1,2026-03-12,Gabriela Rincón,"Monitor 4K 27""",Hardware,1,350.0,350.0,San Francisco,PayPal
+2,2026-06-01,Elena Villalobos,"Monitor 4K 27""",Hardware,1,350.0,350.0,Maracaibo,Tarjeta de Crédito
+3,2026-03-01,Carlos Mendoza,"Monitor 4K 27""",Hardware,2,350.0,700.0,Barquisimeto,PayPal
+4,2026-02-26,Ricardo Villasmil,Micrófono Condensador USB,Audio,4,110.0,440.0,Barquisimeto,Transferencia Bancaria
+5,2026-04-19,Mateo Castillo,"Laptop Pro 15""",Hardware,2,1200.0,2400.0,Caracas,PayPal
+6,2026-01-27,Luis Alejandro Gómez,Mouse Gamer Wireless,Periféricos,3,45.0,135.0,Valencia,Tarjeta de Crédito
+7,2026-06-04,Santiago José Ortíz,Tarjeta Gráfica RTX 4060,Hardware,3,450.0,1350.0,Buenos Aires,Tarjeta de Crédito
+8,2026-04-07,Luis Alejandro Gómez,Disco Duro SSD NVMe 1TB,Hardware,1,95.0,95.0,Barquisimeto,Transferencia Bancaria
+9,2026-05-28,Juan Pablo Arrieta,Hub USB-C 8-en-1,Periféricos,3,35.0,105.0,Bogotá,Tarjeta de Crédito
+10,2026-03-16,Luis Alejandro Gómez,"Laptop Pro 15""",Hardware,2,1200.0,2400.0,Buenos Aires,PayPal
+11,2026-03-13,Ricardo Villasmil,"Monitor 4K 27""",Hardware,4,350.0,1400.0,Bogotá,Transferencia Bancaria
+12,2026-04-01,Juan Pablo Arrieta,Teclado Mecánico RGB,Periféricos,3,85.0,255.0,Bogotá,Transferencia Bancaria
+13,2026-05-17,Gabriela Rincón,"Monitor 4K 27""",Hardware,2,350.0,700.0,San Francisco,Efectivo
+14,2026-06-13,Gabriela Rincón,Memoria RAM DDR5 16GB,Hardware,3,75.0,225.0,Bogotá,Transferencia Bancaria
+15,2026-01-09,Mateo Castillo,"Laptop Pro 15""",Hardware,2,1200.0,2400.0,Valencia,Transferencia Bancaria
+16,2026-05-26,Mateo Castillo,"Monitor 4K 27""",Hardware,2,350.0,700.0,San Francisco,Efectivo
+17,2026-02-06,Santiago José Ortíz,Memoria RAM DDR5 16GB,Hardware,4,75.0,300.0,San Francisco,PayPal
+18,2026-05-30,Elena Villalobos,Micrófono Condensador USB,Audio,3,110.0,330.0,Barquisimeto,Efectivo
+19,2026-02-05,Daniela Chourio,Tarjeta Gráfica RTX 4060,Hardware,2,450.0,900.0,Maracaibo,Tarjeta de Crédito
+20,2026-06-10,Sofía Lucía Castro,"Monitor 4K 27""",Hardware,2,350.0,700.0,Buenos Aires,Efectivo
+21,2026-04-09,Leonardo Finol,Hub USB-C 8-en-1,Periféricos,1,35.0,35.0,Barquisimeto,Efectivo
+22,2026-05-22,Carlos Mendoza,Micrófono Condensador USB,Audio,3,110.0,330.0,Bogotá,Tarjeta de Crédito
+23,2026-06-14,Mateo Castillo,Micrófono Condensador USB,Audio,3,110.0,330.0,Maracaibo,Transferencia Bancaria
+24,2026-04-27,Carlos Mendoza,Memoria RAM DDR5 16GB,Hardware,2,75.0,150.0,Bogotá,Transferencia Bancaria
+25,2026-05-10,Ana Valentina Silva,Micrófono Condensador USB,Audio,2,110.0,220.0,Buenos Aires,Transferencia Bancaria
+26,2026-02-09,Camila Ríos,Micrófono Condensador USB,Audio,2,110.0,220.0,Buenos Aires,PayPal
+27,2026-06-03,Mateo Castillo,Micrófono Condensador USB,Audio,1,110.0,110.0,Valencia,Tarjeta de Crédito
+28,2026-03-20,Gabriela Rincón,"Monitor 4K 27""",Hardware,3,350.0,1050.0,Maracaibo,PayPal
+29,2026-01-22,Daniela Chourio,Hub USB-C 8-en-1,Periféricos,1,35.0,35.0,Buenos Aires,Tarjeta de Crédito
+30,2026-02-02,Daniela Chourio,Micrófono Condensador USB,Audio,2,110.0,220.0,Barquisimeto,PayPal
+31,2026-02-24,Juan Pablo Arrieta,Auriculares Studio Pro,Audio,4,120.0,480.0,Bogotá,Transferencia Bancaria
+32,2026-04-23,Ricardo Villasmil,Memoria RAM DDR5 16GB,Hardware,3,75.0,225.0,Maracaibo,PayPal
+33,2026-03-28,Carlos Mendoza,Mouse Gamer Wireless,Periféricos,1,45.0,45.0,Barquisimeto,PayPal
+34,2026-01-02,Luis Alejandro Gómez,Hub USB-C 8-en-1,Periféricos,2,35.0,70.0,Bogotá,Tarjeta de Crédito
+35,2026-01-09,Mateo Castillo,Mouse Gamer Wireless,Periféricos,1,45.0,45.0,Maracaibo,PayPal
+36,2026-02-24,Diego Andrés Torres,Auriculares Studio Pro,Audio,4,120.0,480.0,Bogotá,Efectivo
+37,2026-04-15,Juan Pablo Arrieta,Mouse Gamer Wireless,Periféricos,4,45.0,180.0,Maracaibo,Tarjeta de Crédito
+38,2026-04-19,Elena Villalobos,Memoria RAM DDR5 16GB,Hardware,3,75.0,225.0,Valencia,Tarjeta de Crédito
+39,2026-04-14,Mateo Castillo,"Monitor 4K 27""",Hardware,1,350.0,350.0,Buenos Aires,Tarjeta de Crédito
+40,2026-02-18,Ricardo Villasmil,Mouse Gamer Wireless,Periféricos,2,45.0,90.0,San Francisco,Efectivo
+41,2026-04-29,Gabriela Rincón,Teclado Mecánico RGB,Periféricos,3,85.0,255.0,Buenos Aires,Tarjeta de Crédito
+42,2026-01-13,Carlos Mendoza,Disco Duro SSD NVMe 1TB,Hardware,1,95.0,95.0,Maracaibo,PayPal
+43,2026-05-05,Daniela Chourio,Teclado Mecánico RGB,Periféricos,4,85.0,340.0,San Francisco,Efectivo
+44,2026-04-08,Carlos Mendoza,"Laptop Pro 15""",Hardware,2,1200.0,2400.0,Valencia,Transferencia Bancaria
+45,2026-04-19,Daniela Chourio,Disco Duro SSD NVMe 1TB,Hardware,3,95.0,285.0,San Francisco,PayPal
+46,2026-01-15,María Alejandra Pérez,Auriculares Studio Pro,Audio,2,120.0,240.0,Bogotá,Transferencia Bancaria
+47,2026-05-30,Daniela Chourio,"Laptop Pro 15""",Hardware,1,1200.0,1200.0,Barquisimeto,PayPal
+48,2026-02-17,Luis Alejandro Gómez,"Laptop Pro 15""",Hardware,1,1200.0,1200.0,Barquisimeto,Tarjeta de Crédito
+49,2026-01-31,Gabriela Rincón,Mouse Gamer Wireless,Periféricos,4,45.0,180.0,Barquisimeto,Tarjeta de Crédito
+50,2026-04-18,Mateo Castillo,Hub USB-C 8-en-1,Periféricos,1,35.0,35.0,Caracas,PayPal
+51,2026-03-09,Leonardo Finol,Tarjeta Gráfica RTX 4060,Hardware,2,450.0,900.0,San Francisco,Transferencia Bancaria
+52,2026-01-19,Carlos Mendoza,Disco Duro SSD NVMe 1TB,Hardware,3,95.0,285.0,Valencia,Tarjeta de Crédito
+53,2026-05-10,Santiago José Ortíz,"Monitor 4K 27""",Hardware,2,350.0,700.0,San Francisco,Transferencia Bancaria
+54,2026-04-05,Isabella Valentina Gómez,"Monitor 4K 27""",Hardware,2,350.0,700.0,San Francisco,Efectivo
+55,2026-06-06,Carlos Mendoza,Micrófono Condensador USB,Audio,3,110.0,330.0,Bogotá,Transferencia Bancaria
+56,2026-03-09,Ana Valentina Silva,"Monitor 4K 27""",Hardware,2,350.0,700.0,Maracaibo,PayPal
+57,2026-06-04,Juan Pablo Arrieta,Auriculares Studio Pro,Audio,3,120.0,360.0,Bogotá,Transferencia Bancaria
+58,2026-05-10,Daniela Chourio,Mouse Gamer Wireless,Periféricos,3,45.0,135.0,Caracas,Tarjeta de Crédito
+59,2026-03-12,María Alejandra Pérez,"Monitor 4K 27""",Hardware,4,350.0,1400.0,Maracaibo,Transferencia Bancaria
+60,2026-02-11,Ricardo Villasmil,Teclado Mecánico RGB,Periféricos,3,85.0,255.0,Barquisimeto,Efectivo
+61,2026-01-29,Luis Alejandro Gómez,Micrófono Condensador USB,Audio,1,110.0,110.0,Bogotá,PayPal
+62,2026-04-05,Diego Andrés Torres,Micrófono Condensador USB,Audio,1,110.0,110.0,Valencia,PayPal
+63,2026-04-04,María Alejandra Pérez,"Laptop Pro 15""",Hardware,3,1200.0,3600.0,Caracas,PayPal
+64,2026-04-01,Elena Villalobos,Mouse Gamer Wireless,Periféricos,1,45.0,45.0,Barquisimeto,PayPal
+65,2026-02-15,Elena Villalobos,Mouse Gamer Wireless,Periféricos,2,45.0,90.0,Maracaibo,PayPal
+66,2026-06-21,Gabriela Rincón,Tarjeta Gráfica RTX 4060,Hardware,4,450.0,1800.0,Caracas,PayPal
+67,2026-01-10,Daniela Chourio,"Monitor 4K 27""",Hardware,4,350.0,1400.0,San Francisco,PayPal
+68,2026-03-20,Gabriela Rincón,Disco Duro SSD NVMe 1TB,Hardware,3,95.0,285.0,San Francisco,Tarjeta de Crédito
+69,2026-03-26,Santiago José Ortíz,Mouse Gamer Wireless,Periféricos,4,45.0,180.0,Buenos Aires,Tarjeta de Crédito
+70,2026-06-14,Leonardo Finol,Auriculares Studio Pro,Audio,3,120.0,360.0,Bogotá,Transferencia Bancaria
+71,2026-03-08,Sofía Lucía Castro,"Laptop Pro 15""",Hardware,1,1200.0,1200.0,Barquisimeto,Transferencia Bancaria
+72,2026-06-02,Elena Villalobos,"Laptop Pro 15""",Hardware,1,1200.0,1200.0,Caracas,Transferencia Bancaria
+73,2026-04-09,Juan Pablo Arrieta,Memoria RAM DDR5 16GB,Hardware,1,75.0,75.0,Caracas,Tarjeta de Crédito
+74,2026-05-14,Juan Pablo Arrieta,Memoria RAM DDR5 16GB,Hardware,1,75.0,75.0,Caracas,Efectivo
+75,2026-06-09,Mateo Castillo,"Monitor 4K 27""",Hardware,3,350.0,1050.0,Bogotá,Tarjeta de Crédito
+76,2026-06-20,Elena Villalobos,Auriculares Studio Pro,Audio,3,120.0,360.0,Caracas,Efectivo
+77,2026-02-19,Elena Villalobos,Auriculares Studio Pro,Audio,2,120.0,240.0,Bogotá,Efectivo
+78,2026-04-14,Carlos Mendoza,Teclado Mecánico RGB,Periféricos,3,85.0,255.0,Caracas,Transferencia Bancaria
+79,2026-05-29,Mateo Castillo,Mouse Gamer Wireless,Periféricos,4,45.0,180.0,Valencia,Efectivo
+80,2026-05-11,Daniela Chourio,Disco Duro SSD NVMe 1TB,Hardware,2,95.0,190.0,Buenos Aires,PayPal
+81,2026-05-12,Mateo Castillo,"Monitor 4K 27""",Hardware,3,350.0,1050.0,Maracaibo,PayPal
+82,2026-02-20,Diego Andrés Torres,Auriculares Studio Pro,Audio,2,120.0,240.0,Maracaibo,Tarjeta de Crédito
+83,2026-06-06,Luis Alejandro Gómez,Mouse Gamer Wireless,Periféricos,4,45.0,180.0,Valencia,Efectivo
+84,2026-04-09,Daniela Chourio,Hub USB-C 8-en-1,Periféricos,2,35.0,70.0,Valencia,PayPal
+85,2026-01-28,Elena Villalobos,Teclado Mecánico RGB,Periféricos,1,85.0,85.0,San Francisco,PayPal
+86,2026-01-13,Gabriela Rincón,Micrófono Condensador USB,Audio,4,110.0,440.0,Buenos Aires,Tarjeta de Crédito
+87,2026-04-29,Mateo Castillo,Disco Duro SSD NVMe 1TB,Hardware,2,95.0,190.0,Buenos Aires,Efectivo
+88,2026-05-21,Ricardo Villasmil,Hub USB-C 8-en-1,Periféricos,4,35.0,140.0,San Francisco,Efectivo
+89,2026-03-05,Santiago José Ortíz,Disco Duro SSD NVMe 1TB,Hardware,3,95.0,285.0,Buenos Aires,Efectivo
+90,2026-04-23,Luis Alejandro Gómez,Mouse Gamer Wireless,Periféricos,3,45.0,135.0,Bogotá,Transferencia Bancaria
+91,2026-03-27,Mateo Castillo,Mouse Gamer Wireless,Periféricos,3,45.0,135.0,Barquisimeto,Tarjeta de Crédito
+92,2026-03-01,Leonardo Finol,Teclado Mecánico RGB,Periféricos,2,85.0,170.0,Bogotá,PayPal
+93,2026-04-17,Elena Villalobos,Mouse Gamer Wireless,Periféricos,1,45.0,45.0,Caracas,Efectivo
+94,2026-02-22,Elena Villalobos,Memoria RAM DDR5 16GB,Hardware,1,75.0,75.0,Valencia,Tarjeta de Crédito
+95,2026-05-03,Carlos Mendoza,Hub USB-C 8-en-1,Periféricos,4,35.0,140.0,Caracas,Transferencia Bancaria
+96,2026-05-18,Gabriela Rincón,Memoria RAM DDR5 16GB,Hardware,4,75.0,300.0,Valencia,PayPal
+97,2026-05-05,Carlos Mendoza,Auriculares Studio Pro,Audio,4,120.0,480.0,Valencia,Transferencia Bancaria
+98,2026-04-30,Diego Andrés Torres,Memoria RAM DDR5 16GB,Hardware,2,75.0,150.0,Barquisimeto,Tarjeta de Crédito
+99,2026-01-22,Elena Villalobos,Memoria RAM DDR5 16GB,Hardware,1,75.0,75.0,San Francisco,Efectivo
+100,2026-03-08,Leonardo Finol,Teclado Mecánico RGB,Periféricos,1,85.0,85.0,Caracas,PayPal
+101,2026-03-28,Leonardo Finol,Disco Duro SSD NVMe 1TB,Hardware,3,95.0,285.0,Caracas,Efectivo
+102,2026-05-01,Carlos Mendoza,Auriculares Studio Pro,Audio,1,120.0,120.0,Bogotá,Tarjeta de Crédito
+103,2026-06-16,Luis Alejandro Gómez,Tarjeta Gráfica RTX 4060,Hardware,2,450.0,900.0,Buenos Aires,Tarjeta de Crédito
+104,2026-02-21,Carlos Mendoza,"Laptop Pro 15""",Hardware,2,1200.0,2400.0,Barquisimeto,PayPal
+105,2026-05-02,Ana Valentina Silva,Mouse Gamer Wireless,Periféricos,2,45.0,90.0,Barquisimeto,PayPal
+106,2026-04-05,Sofía Lucía Castro,Disco Duro SSD NVMe 1TB,Hardware,3,95.0,285.0,Barquisimeto,Tarjeta de Crédito
+107,2026-01-28,Carlos Mendoza,Teclado Mecánico RGB,Periféricos,3,85.0,255.0,Caracas,Efectivo
+108,2026-01-20,Gabriela Rincón,Memoria RAM DDR5 16GB,Hardware,2,75.0,150.0,Maracaibo,Transferencia Bancaria
+109,2026-05-25,María Alejandra Pérez,Hub USB-C 8-en-1,Periféricos,1,35.0,35.0,Caracas,Efectivo
+110,2026-05-10,Mateo Castillo,Tarjeta Gráfica RTX 4060,Hardware,1,450.0,450.0,Maracaibo,Efectivo
+111,2026-04-21,Camila Ríos,Disco Duro SSD NVMe 1TB,Hardware,1,95.0,95.0,Bogotá,Efectivo
+112,2026-02-15,Santiago José Ortíz,Teclado Mecánico RGB,Periféricos,4,85.0,340.0,Barquisimeto,Efectivo
+113,2026-06-01,Santiago José Ortíz,Disco Duro SSD NVMe 1TB,Hardware,4,95.0,380.0,Caracas,PayPal
+114,2026-04-26,Gabriela Rincón,"Monitor 4K 27""",Hardware,3,350.0,1050.0,Buenos Aires,Efectivo
+115,2026-03-28,Carlos Mendoza,Hub USB-C 8-en-1,Periféricos,4,35.0,140.0,Valencia,Transferencia Bancaria
+116,2026-02-24,Camila Ríos,Teclado Mecánico RGB,Periféricos,4,85.0,340.0,Buenos Aires,Transferencia Bancaria
+117,2026-06-02,Santiago José Ortíz,Tarjeta Gráfica RTX 4060,Hardware,3,450.0,1350.0,Barquisimeto,Tarjeta de Crédito
+118,2026-01-22,Gabriela Rincón,Micrófono Condensador USB,Audio,2,110.0,220.0,Bogotá,Efectivo
+119,2026-05-02,Daniela Chourio,Disco Duro SSD NVMe 1TB,Hardware,2,95.0,190.0,Valencia,Tarjeta de Crédito
+120,2026-02-26,Leonardo Finol,"Monitor 4K 27""",Hardware,3,350.0,1050.0,Bogotá,PayPal
+121,2026-05-02,Camila Ríos,Auriculares Studio Pro,Audio,3,120.0,360.0,Valencia,Transferencia Bancaria
+122,2026-03-11,Isabella Valentina Gómez,Tarjeta Gráfica RTX 4060,Hardware,4,450.0,1800.0,Caracas,PayPal
+123,2026-03-22,Ana Valentina Silva,"Monitor 4K 27""",Hardware,2,350.0,700.0,Bogotá,PayPal
+124,2026-05-04,Santiago José Ortíz,Mouse Gamer Wireless,Periféricos,2,45.0,90.0,Bogotá,Transferencia Bancaria
+125,2026-03-17,Gabriela Rincón,"Monitor 4K 27""",Hardware,2,350.0,700.0,Caracas,PayPal
+126,2026-05-17,Diego Andrés Torres,Auriculares Studio Pro,Audio,1,120.0,120.0,Caracas,Tarjeta de Crédito
+127,2026-02-02,Daniela Chourio,"Laptop Pro 15""",Hardware,3,1200.0,3600.0,Maracaibo,Tarjeta de Crédito
+128,2026-05-01,Daniela Chourio,Hub USB-C 8-en-1,Periféricos,3,35.0,105.0,Valencia,Transferencia Bancaria
+129,2026-03-06,Daniela Chourio,Teclado Mecánico RGB,Periféricos,1,85.0,85.0,Maracaibo,Tarjeta de Crédito
+130,2026-01-19,María Alejandra Pérez,Memoria RAM DDR5 16GB,Hardware,4,75.0,300.0,San Francisco,PayPal
+131,2026-01-22,Gabriela Rincón,Hub USB-C 8-en-1,Periféricos,3,35.0,105.0,Maracaibo,Efectivo
+132,2026-05-14,Leonardo Finol,Hub USB-C 8-en-1,Periféricos,2,35.0,70.0,Valencia,Efectivo
+133,2026-03-20,María Alejandra Pérez,Auriculares Studio Pro,Audio,4,120.0,480.0,Barquisimeto,Tarjeta de Crédito
+134,2026-03-09,Luis Alejandro Gómez,Mouse Gamer Wireless,Periféricos,2,45.0,90.0,San Francisco,PayPal
+135,2026-02-10,Carlos Mendoza,Teclado Mecánico RGB,Periféricos,1,85.0,85.0,Valencia,Efectivo
+136,2026-03-16,María Alejandra Pérez,Hub USB-C 8-en-1,Periféricos,4,35.0,140.0,San Francisco,Transferencia Bancaria
+137,2026-01-19,Gabriela Rincón,Auriculares Studio Pro,Audio,4,120.0,480.0,Caracas,PayPal
+138,2026-05-20,Gabriela Rincón,Memoria RAM DDR5 16GB,Hardware,1,75.0,75.0,Bogotá,PayPal
+139,2026-01-19,María Alejandra Pérez,Auriculares Studio Pro,Audio,2,120.0,240.0,San Francisco,Transferencia Bancaria
+140,2026-04-23,Ana Valentina Silva,Hub USB-C 8-en-1,Periféricos,3,35.0,105.0,Valencia,Transferencia Bancaria
+141,2026-05-09,Daniela Chourio,Memoria RAM DDR5 16GB,Hardware,3,75.0,225.0,Valencia,Tarjeta de Crédito
+142,2026-04-21,Mateo Castillo,Hub USB-C 8-en-1,Periféricos,1,35.0,35.0,Barquisimeto,Transferencia Bancaria
+143,2026-02-28,Carlos Mendoza,"Laptop Pro 15""",Hardware,1,1200.0,1200.0,Buenos Aires,Transferencia Bancaria
+144,2026-02-14,Daniela Chourio,Hub USB-C 8-en-1,Periféricos,1,35.0,35.0,Barquisimeto,Efectivo
+145,2026-05-30,Elena Villalobos,Auriculares Studio Pro,Audio,2,120.0,240.0,Bogotá,Efectivo
+146,2026-03-31,Elena Villalobos,"Monitor 4K 27""",Hardware,4,350.0,1400.0,Caracas,Transferencia Bancaria
+147,2026-03-26,Elena Villalobos,"Monitor 4K 27""",Hardware,2,350.0,700.0,Bogotá,Efectivo
+148,2026-05-21,María Alejandra Pérez,Auriculares Studio Pro,Audio,4,120.0,480.0,Valencia,Tarjeta de Crédito
+149,2026-03-24,Ana Valentina Silva,Tarjeta Gráfica RTX 4060,Hardware,3,450.0,1350.0,Buenos Aires,Efectivo
+150,2026-06-18,Ricardo Villasmil,Micrófono Condensador USB,Audio,1,110.0,110.0,Valencia,Tarjeta de Crédito
