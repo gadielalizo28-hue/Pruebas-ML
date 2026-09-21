@@ -1,15 +1,15 @@
 from contextlib import asynccontextmanager 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from core.onnx import MotorInferenciaONNX # Importación modular profesional pero el optimizado
+from core.generador import MotorGeneracion  # Importación modular profesional
 
 @asynccontextmanager #esta funcion controla el ciclo de vida (el encendido y apagado)
 async def lifespan(app: FastAPI): 
-    motor_ia.cargar_o_exportar_modelo()
+    motor_ia.cargar_modelo()
     yield #para ahorrar memoria a la hora de recibir gente
 
 
-motor_ia = MotorInferenciaONNX(modelo_id="gpt2", ruta_exportacion="./onnx_model")
+motor_ia = MotorGeneracion("gpt2")
 app = FastAPI(title="API Generativa Nivel 10")
 
 class SolicitudTexto(BaseModel):
